@@ -1,0 +1,26 @@
+.col-xs-12#main-content p {
+	padding: 10px;
+	background-color: #C0C4C9
+}
+
+.navbar-header {
+	position: relative;
+}
+
+h1 {
+	float: left;
+	margin-bottom: 20px;
+}
+
+button {
+	position: absolute;
+	top: 15px;
+}
+#nav-list {
+	margin-top: -20px;
+	padding-bottom: 20px;
+	margin-bottom: -5px;
+	text-align: center;
+	background-color: #799FD4
+}
+
